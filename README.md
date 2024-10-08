@@ -50,4 +50,5 @@ Implemented automatic remediation mechanisms for web service failures:
 The project demonstrates an automated, resilient cloud infrastructure capable of detecting failures and self-healing without manual intervention.
 It showcases strong knowledge of AWS services, cloud architecture, and DevOps practices, ensuring scalability, security, and disaster recovery readiness.
 
-![Image](https://github.com/user-attachments/assets/1edaf500-e07a-4d1f-8b4f-532a37289ae9)
+![AWS_Project drawio (2)](https://github.com/user-attachments/assets/f02eef88-1ae2-4dec-957c-cdf21d377330)
+
